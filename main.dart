@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(const MyApp());
 }
-
 /// [Widget] building the [MaterialApp].
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
